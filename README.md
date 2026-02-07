@@ -58,3 +58,13 @@ Les visualisations et analyses sont regroupées dans le notebook principal.
 - Extension à d’autres types de données énergétiques
 
 ## Organisation du repository
+.
+├── Livrable.ipynb        # Notebook principal du projet
+├── README.md             # Description et contexte du projet
+├── requirements.txt      # Dépendances Python
+├── .gitignore            # Fichiers à ignorer par Git
+└── data/
+    ├── fichier1.csv      # Données utilisées dans l’analyse
+    ├── fichier2.csv
+    └── README.md         # Description des données
+
