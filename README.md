@@ -47,15 +47,6 @@ L’analyse permet de :
 
 Les visualisations et analyses sont regroupées dans le notebook principal.
 
-## Limites
-- Qualité et granularité des données dépendantes des capteurs
-- Approche exploratoire sans déploiement opérationnel
-- Modèles limités par la taille et la structure des données disponibles
-
-## Perspectives
-- Utilisation de modèles temporels plus avancés
-- Automatisation du pipeline de traitement
-- Extension à d’autres types de données énergétiques
 
 ## Organisation du repository
 .
